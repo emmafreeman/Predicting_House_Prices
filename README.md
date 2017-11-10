@@ -16,4 +16,4 @@ Note: this was the second project I did for the Data Science Immersive prorgram 
 
 Version 2:
 
-I focused on doing better pre-processing and feature selection. I used Lasso and GradientBoostingRegressor and obtained the most important features in predicting sale price. My best accuracy score (R^2) was 91% with a RMSE of around $20,000 average difference between the predicted and actual sale prices.
+I focused on doing better pre-processing and feature selection. For the predictive modeling, I used Lasso and GradientBoostingRegressor and obtained the features that are most informative for predicting sale price. My best accuracy score (R^2) was 91% with a RMSE of around $20,000 average difference between the predicted and actual sale prices.
